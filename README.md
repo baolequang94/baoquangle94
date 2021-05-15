@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Coding Banner](https://image.freepik.com/free-vector/coding-system-banner_87720-2994.jpg)
+![Coding Banner](https://github.com/lequangbao1/lequangbao1/blob/main/undraw_happy_2021_h01d.png)
 
 # Bao Quang Le - Passionate Web Developer, Self-Learner
 
