@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🤗 Open and friendly.
 - 💕 Love to learn new things, especially things related to Frontend stacks.
-- 💻 Enjoy working with ReactJS ❤
+- 💻 Enjoy working with ReactJS.
 
 ## 🔨 Working 
 
