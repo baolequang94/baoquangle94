@@ -16,21 +16,26 @@ Here are some ideas to get you started:
 
 ![Coding Banner](https://github.com/lequangbao1/lequangbao1/blob/main/undraw_happy_2021_h01d.png)
 
-# Bao Quang Le - Passionate Web Developer, Self-Learner
+# 🙋‍♂️ Bao Quang Le - Passionate Web Developer, Self-Learner
 
-- Open and friendly.
-- Love to learn new things, especially things related to Frontend stacks.
-- Enjoy working with ReactJS ❤
+- 🤗 Open and friendly.
+- 💕 Love to learn new things, especially things related to Frontend stacks.
+- 💻 Enjoy working with ReactJS ❤
 
-## Working 
+## 🔨 Working 
 
+...
 
-## Pet Projects 
+## 🐶 Pet Projects 
 
-1. Start Bootstrap Landing Page
+1. 📃 **Start Bootstrap Landing Page**
     - Source Code : https://github.com/lequangbao1/portfolioTimeline
     - Demo URL    : https://lequangbao1.github.io/portfolioTimeline/
     
-2. To-Do List
+2. 📝 **To-Do List**
     - Source Code : https://github.com/lequangbao1/todolist
     - Demo URL    : https://todolist-bao.vercel.app/
+
+3. 🔥 **Firegram**
+    - Source Code : https://github.com/lequangbao1/firegram2
+    - Demo URL    : http://firegram2.vercel.app/
